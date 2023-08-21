@@ -6,3 +6,6 @@ Updated code based on this tutorial: https://testdriven.io/blog/deploying-django
 * app = Django, Python, Docker
 * delpoy = script to update deplyment
 * terraform = Terraform
+
+## ToDo:
+* Setup CI/CD pipeline
